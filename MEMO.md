@@ -19,3 +19,9 @@ git commit -m "コメント" : ステージングしたファイルを保存す�
 
 
 
+
+
+git config --global user.name "名前"
+git config --global user.email "メールアドレス"
+
+
